@@ -5,12 +5,12 @@
 }
 
 .recipe-body {
-    background: olivedrab;
+    background: rgb(104, 139, 32);
     color: orange;
 }
 
 
 .img-link {
     display: flex;
-    gap: 15vw;
+    gap: 20vw;
 }
