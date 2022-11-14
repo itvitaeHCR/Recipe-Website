@@ -1,0 +1,16 @@
+.main {
+    background: rgb(109, 110, 175);
+    color:rgb(255, 210, 143);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.recipe-body {
+    background: olivedrab;
+    color: orange;
+}
+
+
+.img-link {
+    display: flex;
+    gap: 15vw;
+}
